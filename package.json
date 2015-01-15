@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-json-to-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Transform JSON files into JS modules",
   "main": "index.js",
   "scripts": {
