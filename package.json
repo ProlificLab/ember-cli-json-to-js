@@ -10,10 +10,15 @@
     "ember-addon",
     "json"
   ],
-  "author": "Christophe Harrer",
+  "author": {
+    "name": "Christophe Harrer"
+  },
   "license": "MIT",
   "dependencies": {
-    "broccoli-json-module": "*"
+    "broccoli-json-module": "^0.0.1"
   },
-  "devDependencies": {}
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ProlificLab/ember-cli-json-to-js"
+  }
 }
